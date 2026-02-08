@@ -43,4 +43,6 @@ Finally, run the project by running the following command:
 streamlit run app.py
 ```
 
-Author-Kirtan Savaj
+Author
+
+Kirtan Savaj
